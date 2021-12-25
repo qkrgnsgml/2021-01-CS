@@ -1,0 +1,10 @@
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week4\Week4_3\bin\Debug\Week4_3.exe.config
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week4\Week4_3\bin\Debug\Week4_3.exe
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week4\Week4_3\bin\Debug\Week4_3.pdb
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week4\Week4_3\obj\Debug\Week4_3.csprojAssemblyReference.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week4\Week4_3\obj\Debug\Week4_3.Form1.resources
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week4\Week4_3\obj\Debug\Week4_3.Properties.Resources.resources
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week4\Week4_3\obj\Debug\Week4_3.csproj.GenerateResource.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week4\Week4_3\obj\Debug\Week4_3.csproj.CoreCompileInputs.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week4\Week4_3\obj\Debug\Week4_3.exe
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week4\Week4_3\obj\Debug\Week4_3.pdb

@@ -1,0 +1,26 @@
+파일 불러서 수정하기
+스트림 리더 (fs, encoding 어쩌고)
+
+int pos = 0; 
+while(!sr.EndOfStream)
+{
+ 	var data = sr.ReadLine();
+
+	if(0==data.IndexOf(searchproduct,Number.ToSTring("000000")))  00000형태의 넘버가 데이터에 앞부분이 같냐
+	{
+		var seekpos = pos + Encoding.UTF8.GetByteCount(data) - Encoding.UTF8.GetByteCount("00.00');
+			
+		fs.Seek(seekpos,SeekOrigin.Begin); 위치 찾아서 점프~ 깜빢ㄲ마빢
+
+		var wdata = Encoding.UTF8.GetBytes(searchproduct.DiscountRate.ToString("00.00")); 수정된거 바이트로 바꿈
+
+		fs.Write(wdata,0,wdata.Length); 현위치에 위에 바이트 붙여씀
+			
+		break;
+	}
+
+	pos +=Encoding.UTF8.GetByteCount(data)+Environment.NewLine.Length // 바이트 한줄 내린거 더해주기 크기
+
+1234124
+123123
+3위치는 위에 첫줄 더한거

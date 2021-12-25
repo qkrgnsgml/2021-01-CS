@@ -1,0 +1,20 @@
+C:\Users\박훈희\source\repos\Week6\Week6_1\bin\Debug\Week6_1.exe.config
+C:\Users\박훈희\source\repos\Week6\Week6_1\bin\Debug\Week6_1.exe
+C:\Users\박훈희\source\repos\Week6\Week6_1\bin\Debug\Week6_1.pdb
+C:\Users\박훈희\source\repos\Week6\Week6_1\obj\Debug\Week6_1.csprojAssemblyReference.cache
+C:\Users\박훈희\source\repos\Week6\Week6_1\obj\Debug\Week6_1.Form1.resources
+C:\Users\박훈희\source\repos\Week6\Week6_1\obj\Debug\Week6_1.Properties.Resources.resources
+C:\Users\박훈희\source\repos\Week6\Week6_1\obj\Debug\Week6_1.csproj.GenerateResource.cache
+C:\Users\박훈희\source\repos\Week6\Week6_1\obj\Debug\Week6_1.csproj.CoreCompileInputs.cache
+C:\Users\박훈희\source\repos\Week6\Week6_1\obj\Debug\Week6_1.exe
+C:\Users\박훈희\source\repos\Week6\Week6_1\obj\Debug\Week6_1.pdb
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week6\Week6_1\bin\Debug\Week6_1.exe.config
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week6\Week6_1\bin\Debug\Week6_1.exe
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week6\Week6_1\bin\Debug\Week6_1.pdb
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week6\Week6_1\obj\Debug\Week6_1.csprojAssemblyReference.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week6\Week6_1\obj\Debug\Week6_1.Form1.resources
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week6\Week6_1\obj\Debug\Week6_1.Properties.Resources.resources
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week6\Week6_1\obj\Debug\Week6_1.csproj.GenerateResource.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week6\Week6_1\obj\Debug\Week6_1.csproj.CoreCompileInputs.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week6\Week6_1\obj\Debug\Week6_1.exe
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\Week6\Week6_1\obj\Debug\Week6_1.pdb

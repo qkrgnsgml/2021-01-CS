@@ -1,0 +1,9 @@
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\WindowsFormsApp2\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\WindowsFormsApp2\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\WindowsFormsApp2\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\WindowsFormsApp2\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.FornInfo.resources
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\WindowsFormsApp2\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\WindowsFormsApp2\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\WindowsFormsApp2\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\WindowsFormsApp2\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\WindowsFormsApp2\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb

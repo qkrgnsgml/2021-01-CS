@@ -1,0 +1,528 @@
+[A/C 반]
+
+
+
+namespace Week9A
+
+{
+
+    class Student
+
+    {
+
+        private static int _stdCount;
+
+        private const int SUBJECT_MAX_COUNT = 4;        
+
+
+
+        private string _id;
+
+        private string _name;
+
+        private int _grade = 1;
+
+        private List _subject;//null        
+
+
+
+
+
+        public Student(string name, string id) //: this(name, id, 1)
+
+        {
+
+            _name = name;
+
+            _id = id;
+
+            //_grade = 1;
+
+            _stdCount++;
+
+        }
+
+
+
+        public Student(string name, string id, int grade)
+
+            : this(name, id)
+
+        {
+
+            Grade = grade; //SetGrade(grade);
+
+        }
+
+
+
+        public void SetGrade(int value)
+
+        {
+
+            if (1 <= value && value <= 4)
+
+            {
+
+                _grade = value;
+
+            }
+
+
+
+        }
+
+
+
+        //public bool SetGrade(int value)
+
+        //{
+
+        //    if (1 <= value && value <= 4)
+
+        //    {
+
+        //        _grade = value;
+
+        //        return true;
+
+        //    }
+
+        //    else
+
+        //    {
+
+        //        return false;
+
+        //    }
+
+        //
+
+        //}
+
+
+
+        public int Grade
+
+        {
+
+            set
+
+            {
+
+                if (1 > value)
+
+                {
+
+                    _grade = 1;
+
+                }
+
+                else if (4 < value)
+
+                {
+
+                    _grade = 1;
+
+                }
+
+                else
+
+                {
+
+                    _grade = value;
+
+                }
+
+
+
+                //if (1 <= value && value <= 4)
+
+                //{
+
+                //    _grade = value;
+
+                //}
+
+                //else
+
+                //{
+
+                //    throw new Exception("범위오류");
+
+                //}
+
+            }
+
+        }//p
+
+
+
+        public bool RegCourse(string subject)
+
+        {
+
+            bool result = false;
+
+
+
+            if(_subject == null)
+
+            {
+
+                _subject = new List();
+
+            }
+
+
+
+            if (_subject.Count < SUBJECT_MAX_COUNT)
+
+            {
+
+                if (null == _subject.Where(m => m == subject).FirstOrDefault())
+
+                {
+
+                    //foreach (var sub in _subject)
+
+                    //{
+
+                    //    if (sub == subject)
+
+                    //    {
+
+                    //        return result;
+
+                    //    }
+
+                    //}
+
+
+
+                    _subject.Add(subject);
+
+                    result = true;
+
+                }
+
+            }
+
+
+
+            return result;
+
+        }
+
+
+
+        public static int GetStuCount()
+
+        {
+
+            return _stdCount;
+
+        }
+
+
+
+    }//c
+
+}//n
+
+
+
+[B반]
+
+
+
+namespace Week9B
+
+{
+
+    class Book
+
+    {
+
+        private static int _bookCount;
+
+        private const int RENTAL_MAX_COUNT=100;
+
+
+
+        private string _name;
+
+        private string _id;
+
+        private List _rentalUsers;
+
+        private DateTime _rentalDate;
+
+
+
+        public Book(string id, string name)  //: this(id)
+
+        {
+
+            this._id = id;
+
+            this.Name = name;
+
+            Book._bookCount++;
+
+        }
+
+
+
+        public Book(string id)
+
+            : this(id, "UNKNOWN")
+
+        {
+
+            //this._id = id;
+
+            //this.Name = "UNKNOWN";
+
+            //Book._bookCount++;
+
+        }
+
+
+
+        public string Name
+
+        {
+
+            set
+
+            {
+
+                if (string.IsNullOrEmpty(_name))
+
+                {
+
+                    _name = "제목없음";
+
+                }
+
+                else
+
+                {
+
+                    _name = value;
+
+                }
+
+            }
+
+            get 
+
+            {
+
+                return _name;
+
+                //if(_name == null || _name == "")
+
+                //if (string.IsNullOrEmpty(_name))
+
+                //{
+
+                //    return "제목없음";
+
+                //}
+
+                //else
+
+                //{
+
+                //    return _name;
+
+                //}
+
+            }
+
+            
+
+
+
+        }    
+
+
+
+        public bool DoReturn() //책 반납 수행
+
+        {
+
+            bool result = false;
+
+            if (this._rentalDate != DateTime.MinValue)
+
+            {
+
+                this._rentalDate = DateTime.MinValue;
+
+                result =  true;
+
+            }
+
+            return result;
+
+        }
+
+
+
+        public bool DoRental(string name) //책 대여 수행
+
+        {
+
+            if (_rentalUsers.Count < Book.RENTAL_MAX_COUNT)
+
+            {
+
+                if (_rentalDate != DateTime.MinValue)
+
+                {
+
+                    _rentalUsers.Add(name);
+
+                    _rentalDate = DateTime.Now;
+
+                    return true;
+
+                }
+
+            }
+
+            return false;
+
+        }
+
+
+
+        public bool IsRental(string name)
+
+        {
+
+            bool result = false;
+
+            foreach(var n in _rentalUsers)
+
+            {
+
+                if(n == name)
+
+                {
+
+                    result = true;
+
+                    break;
+
+                }
+
+            }
+
+            return result;
+
+        }
+
+
+
+        public int GetTotalRentalCount()
+
+        {
+
+            return _rentalUsers.Count;
+
+        }
+
+    }
+
+}
+
+
+
+-----------------------------------------------
+
+
+
+class Motor
+
+{
+
+  double speed;
+
+  double position;
+
+}
+
+
+
+class MotorEx : Motor
+
+{
+
+  double accel;
+
+  double dccel;
+
+}
+
+
+
+public void Test(Motor a)
+
+{ 
+
+   a.speed = 1;
+
+   a.accel = 2;//에러~
+
+}
+
+
+
+-----------------------------------------------------
+
+class Animal{
+
+   public Eat() { ... }
+
+}
+
+class Dog : Animal{
+
+   public Bark() { ... }
+
+}
+
+class Cat : Animal{
+
+   public Meow() { ... }
+
+}
+
+
+
+
+
+ Cat[] cats = new Cat[]{new Animal(), new Cat()};
+
+ Dog[] dogs = new Dog[]{new Dog(), new Dog()};
+
+ Animal[] animals = new Animal[] { new Cat(), new Dog()};
+
+
+
+ foreach(var a in animals)
+
+ {
+
+   a.Eat();
+
+   if( a is int)
+
+     ((Cat)a).Meow();
+
+ }
+

@@ -1,0 +1,7 @@
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\씨샵 5_1\씨샵 5_1\bin\Debug\씨샵 5_1.exe.config
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\씨샵 5_1\씨샵 5_1\bin\Debug\씨샵 5_1.exe
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\씨샵 5_1\씨샵 5_1\bin\Debug\씨샵 5_1.pdb
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\씨샵 5_1\씨샵 5_1\obj\Debug\씨샵 5_1.csprojAssemblyReference.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\씨샵 5_1\씨샵 5_1\obj\Debug\씨샵 5_1.csproj.CoreCompileInputs.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\씨샵 5_1\씨샵 5_1\obj\Debug\씨샵 5_1.exe
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\씨샵 5_1\씨샵 5_1\obj\Debug\씨샵 5_1.pdb

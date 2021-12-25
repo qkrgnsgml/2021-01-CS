@@ -1,0 +1,9 @@
+C:\Users\박훈희\source\repos\Week6\Week6_2\obj\Debug\Week6_2.csprojAssemblyReference.cache
+C:\Users\박훈희\source\repos\Week6\Week6_2\obj\Debug\Week6_2.Properties.Resources.resources
+C:\Users\박훈희\source\repos\Week6\Week6_2\obj\Debug\Week6_2.csproj.GenerateResource.cache
+C:\Users\박훈희\source\repos\Week6\Week6_2\obj\Debug\Week6_2.csproj.CoreCompileInputs.cache
+C:\Users\박훈희\source\repos\Week6\Week6_2\bin\Debug\Week6_2.exe.config
+C:\Users\박훈희\source\repos\Week6\Week6_2\bin\Debug\Week6_2.exe
+C:\Users\박훈희\source\repos\Week6\Week6_2\bin\Debug\Week6_2.pdb
+C:\Users\박훈희\source\repos\Week6\Week6_2\obj\Debug\Week6_2.exe
+C:\Users\박훈희\source\repos\Week6\Week6_2\obj\Debug\Week6_2.pdb

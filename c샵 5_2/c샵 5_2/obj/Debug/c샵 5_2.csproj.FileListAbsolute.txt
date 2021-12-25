@@ -1,0 +1,14 @@
+C:\Users\박훈희\source\repos\c샵 5_2\c샵 5_2\bin\Debug\c샵 5_2.exe.config
+C:\Users\박훈희\source\repos\c샵 5_2\c샵 5_2\bin\Debug\c샵 5_2.exe
+C:\Users\박훈희\source\repos\c샵 5_2\c샵 5_2\bin\Debug\c샵 5_2.pdb
+C:\Users\박훈희\source\repos\c샵 5_2\c샵 5_2\obj\Debug\c샵 5_2.csprojAssemblyReference.cache
+C:\Users\박훈희\source\repos\c샵 5_2\c샵 5_2\obj\Debug\c샵 5_2.csproj.CoreCompileInputs.cache
+C:\Users\박훈희\source\repos\c샵 5_2\c샵 5_2\obj\Debug\c샵 5_2.exe
+C:\Users\박훈희\source\repos\c샵 5_2\c샵 5_2\obj\Debug\c샵 5_2.pdb
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\c샵 5_2\c샵 5_2\bin\Debug\c샵 5_2.exe.config
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\c샵 5_2\c샵 5_2\bin\Debug\c샵 5_2.exe
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\c샵 5_2\c샵 5_2\bin\Debug\c샵 5_2.pdb
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\c샵 5_2\c샵 5_2\obj\Debug\c샵 5_2.csprojAssemblyReference.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\c샵 5_2\c샵 5_2\obj\Debug\c샵 5_2.csproj.CoreCompileInputs.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\c샵 5_2\c샵 5_2\obj\Debug\c샵 5_2.exe
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\c샵 5_2\c샵 5_2\obj\Debug\c샵 5_2.pdb

@@ -1,0 +1,7 @@
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\FirstMyApp\FirstMyApp\bin\Debug\FirstMyApp.exe.config
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\FirstMyApp\FirstMyApp\bin\Debug\FirstMyApp.exe
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\FirstMyApp\FirstMyApp\bin\Debug\FirstMyApp.pdb
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\FirstMyApp\FirstMyApp\obj\Debug\FirstMyApp.csprojAssemblyReference.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\FirstMyApp\FirstMyApp\obj\Debug\FirstMyApp.csproj.CoreCompileInputs.cache
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\FirstMyApp\FirstMyApp\obj\Debug\FirstMyApp.exe
+C:\Users\박훈희\Desktop\학교자료\박훈희 2학년1학기\C#\FirstMyApp\FirstMyApp\obj\Debug\FirstMyApp.pdb
